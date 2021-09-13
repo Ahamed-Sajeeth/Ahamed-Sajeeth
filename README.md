@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Hacking
 - 💬 Ask me about PHP and  any Web Development stuff
-- 📫 How to reach me: twitter - @AhamedSajeeth12
+- 📫 How to reach me: twitter -(https://twitter.com/AhamedSajeeth12)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Travelling Watching Movies.
