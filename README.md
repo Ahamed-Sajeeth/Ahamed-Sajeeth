@@ -1,4 +1,4 @@
-### Hi I am Ahamed Sajeeth! 👋
+### Hi I am  [ Ahamed Sajeeth!](http://ahamedsajeeth.tech/) 👋
 
 Here are some ideas to get you started:
 
