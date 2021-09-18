@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Travelling Watching Movies.
 
 <img src= "https://github-readme-stats.vercel.app/api?username=Ahamed-Sajeeth&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahamed-Sajeeth&&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamed-Sajeeth&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src= "https://github-readme-stats.vercel.app/api?username=Ahamed-Sajeeth&&show_icons=true&theme=tokyonight">
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamed-Sajeeth&&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 
