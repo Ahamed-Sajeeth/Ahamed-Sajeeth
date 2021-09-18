@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahamed-Sajeeth&&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
 <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=Ahamed-Sajeeth)](https://github.com/anuraghazra/github-readme-stats">
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Ahamed-Sajeeth&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats">
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Ahamed-Sajeeth&&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats">
